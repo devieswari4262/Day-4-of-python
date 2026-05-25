@@ -3,7 +3,7 @@
 # write a code to find out the greatest between two numbers and 
 # you to take input from the user and the inputs must and should be first _number and second_number
 
-'''First_number=int(input("Enter the first number"))
+First_number=int(input("Enter the first number"))
 second_number=int(input("Enter the second_number"))
 if(First_number>second_number):
     print(f"First_number is greater than the second_number{First_number}")
@@ -34,7 +34,7 @@ else:
 o/p:Enter the number:65
 odd
 Enter the number:22
-not an odd'''
+not an odd
 
 
 #Not equal to
@@ -43,5 +43,5 @@ if number%2!=0:
     print("odd")
 else:
     print("not an odd")
-   ''' o/p:Enter the number:62
-not an odd'''
+o/p:Enter the number:62
+not an odd
